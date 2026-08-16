@@ -1,0 +1,4 @@
+C:\Users\ASUS\AndroidStudioProjects\DiceRoller\app\src\main\java\com\example\diceroller\ui\theme\Type.kt
+C:\Users\ASUS\AndroidStudioProjects\DiceRoller\app\src\main\java\com\example\diceroller\ui\theme\Theme.kt
+C:\Users\ASUS\AndroidStudioProjects\DiceRoller\app\src\main\java\com\example\diceroller\MainActivity.kt
+C:\Users\ASUS\AndroidStudioProjects\DiceRoller\app\src\main\java\com\example\diceroller\ui\theme\Color.kt
